@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&letterSpacing=&pause=500&color=401867&vCenter=true&random=true&width=700&lines=%F0%9F%9A%80++Explorador+de+C%C3%B3digo+%26%26+Criador+de+Solu%C3%A7%C3%B5es+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
   </a>
-  <img src="./images/gif-black-panther.gif" width="50"/>
+  <img src="https://cdnb.artstation.com/p/assets/images/images/018/897/829/original/hilman-hassan-ezgif-com-video-to-gif.gif?1561142252" width="80"/>
 </div>
 
 <p align="center">Estudante de Sistemas de Informação, quase formado, e minha paixão pela programação só cresce a cada dia. Já trabalhei com PHP, Node, React e TypeScript, e estou sempre em busca de novos desafios para aprender e evoluir. Programar é mais do que uma profissão para mim – é uma paixão que me impulsiona a crescer e a explorar o mundo da tecnologia com curiosidade e dedicação a cada dia.
