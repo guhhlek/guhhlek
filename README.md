@@ -1,4 +1,4 @@
-## Hi there 👋
+## <img src="https://img.shields.io/badge/Hi%20there-%23401867?style=for-the-badge&logo=github&logoColor=ffffff" alt="Hi there" /> 👋
 
 <p align="center">Estudante de Sistemas de Informação, quase formado, e minha paixão pela programação só cresce a cada dia. Já trabalhei com PHP, Node, React e TypeScript, e estou sempre em busca de novos desafios para aprender e evoluir. Programar é mais do que uma profissão para mim – é uma paixão que me impulsiona a crescer e a explorar o mundo da tecnologia com curiosidade e dedicação a cada dia.
   
