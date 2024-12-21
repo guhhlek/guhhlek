@@ -38,10 +38,19 @@
 
 <h3 align="left">My Collaboration On Projects</h3>
 
-- 💼 [**Portfolio Website Business**](https://winspvp.gg/) - Meu portfólio profissional feito com Tailwind CSS.  
+💼 [**Portfolio Website Business**](https://winspvp.gg/) - Site Institucional da Empresa + Portais dos Jogos
+
 
 #
 
+<h3 align="left">GitHub Stats 📊</h3>
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guhhlek&show_icons=true&theme=dark&border_radius=10&border_color=401867&bg_color=000000&title_color=fff&text_color=fff&icon_color=fff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhhlek&layout=compact&theme=dark&border_radius=10&border_color=401867&bg_color=000000&title_color=fff&text_color=fff&icon_color=fff" />
+</div>
+
+#
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guhhlek/guhhlek/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guhhlek/guhhlek/output/github-contribution-grid-snake-dark.svg">
