@@ -1,5 +1,8 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&letterSpacing=&pause=500&color=401867&vCenter=true&random=true&width=700&lines=%F0%9F%9A%80++Explorador+de+C%C3%B3digo+%26%26+Criador+de+Solu%C3%A7%C3%B5es+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&letterSpacing=&pause=500&color=401867&vCenter=true&random=true&width=700&lines=%F0%9F%9A%80++Explorador+de+C%C3%B3digo+%26%26+Criador+de+Solu%C3%A7%C3%B5es+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="./images/gif-black-panther.gif" width="50"/>
+  </a>
 </div>
 
 <p align="center">Estudante de Sistemas de Informação, quase formado, e minha paixão pela programação só cresce a cada dia. Já trabalhei com PHP, Node, React e TypeScript, e estou sempre em busca de novos desafios para aprender e evoluir. Programar é mais do que uma profissão para mim – é uma paixão que me impulsiona a crescer e a explorar o mundo da tecnologia com curiosidade e dedicação a cada dia.
@@ -42,7 +45,6 @@
 
 💼 [**Portfolio Website Business**](https://winspvp.gg/) - Site Institucional da Empresa + Portais dos Jogos
 
-
 #
 
 <h3 align="left">GitHub Stats 📊</h3>
@@ -53,6 +55,7 @@
 </div>
 
 #
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guhhlek/guhhlek/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guhhlek/guhhlek/output/github-contribution-grid-snake-dark.svg">
