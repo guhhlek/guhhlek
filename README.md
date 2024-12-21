@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![Email](https://img.shields.io/badge/-Email-FFF?style=for-the-badge&logo=gmail&logoColor=401867)](mailto:gustavoramos2404@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=401867&color:FFF)](https://www.linkedin.com/in/gustavo-henrique-3ab03718b/)
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=401867)](mailto:gustavoramos2404@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=401867)](https://www.linkedin.com/in/gustavo-henrique-3ab03718b/)
 
 <h3 align="left">My Stacks ~</h3>
 
