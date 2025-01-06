@@ -5,7 +5,7 @@
   <img src="./images//gif-black-panther-2.gif" width="60"/>
 </div>
 
-<p align="center">Estudante de Sistemas de Informação, quase formado, e minha paixão pela programação só cresce a cada dia. Já trabalhei com PHP, Node, React e TypeScript, e estou sempre em busca de novos desafios para aprender e evoluir. Programar é mais do que uma profissão para mim – é uma paixão que me impulsiona a crescer e a explorar o mundo da tecnologia com curiosidade e dedicação a cada dia.
+<p align="center">Estudante de Sistemas de Informação, quase formado, e minha paixão pela programação só cresce a cada dia. Já trabalhei com Node, React, TypeScript, PHP, e estou sempre em busca de novos desafios para aprender e evoluir. Programar é mais do que uma profissão para mim, é uma paixão que me impulsiona a crescer e a explorar o mundo da tecnologia com curiosidade e dedicação a cada dia.
   
 #
 
