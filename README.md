@@ -41,9 +41,14 @@
 
 #
 
-<h3 align="left">My Collaboration On Projects</h3>
+<h3 align="left">🤝 My Collaboration on Projects</h3>
 
-💼 [**Portfolio Website Business**](https://winspvp.gg/) - Site Institucional da Empresa + Portais dos Jogos
+| Project | Description |
+|---------|-------------|
+| 💼 **WinsPvP** | Corporate website and game portals<br>https://winspvp.gg/ |
+| 🎮 **DeathMax (WinsVue)** | Game portal<br>https://winsvue.gg/DeathMax |
+| 📢 **E-Campanha** | Political campaign platform<br>https://e-campanha.com/ |
+| 🏥 **S2 Médica** | Institutional healthcare website<br>https://www.s2medica.com.br/ |
 
 #
 
